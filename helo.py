@@ -1,4 +1,1 @@
-x=2
-y=3
-print(x+y)
-print('hello')
+print('hello earth , we come in peace')
